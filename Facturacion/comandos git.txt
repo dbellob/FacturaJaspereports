@@ -1,0 +1,5 @@
+#quitar commits desde el especificado
+git reset --hard <codigo del commit realizado>
+
+#forzar push de cambios hechos localmente en repositorio remoto
+git push --force origin master
