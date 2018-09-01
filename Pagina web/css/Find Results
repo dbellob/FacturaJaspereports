@@ -1,0 +1,154 @@
+Searching 64 files for "site-layout.css"
+
+/var/www/html/Dazzle10/css/main.css:
+ 1138  
+ 1139  /* ------------------------------------------------------------------- 
+ 1140:  * header logo - (_site-layout.css) 
+ 1141   * ------------------------------------------------------------------- */
+ 1142  
+ ....
+ 1172  
+ 1173  /* ------------------------------------------------------------------- 
+ 1174:  * menu trigger - (_site-layout.css) 
+ 1175   * ------------------------------------------------------------------- */
+ 1176  
+
+2 matches in 1 file
+
+
+Searching 64 files for "header-logos"
+
+/var/www/html/Dazzle10/Find Results:
+    8     43     <header id="header" class="row">   
+    9     44  
+   10:    45:    		<div class="header-logo">
+   11     46  	        <a href="index.html">BogoAmbiental</a>
+   12     47  	    </div>
+   ..
+   15     51     <header id="header" class="row">   
+   16     52  
+   17:    53: 		<div class="header-logo">
+   18     54  	   	<a href="index.html">BogoAmbiental</a>
+   19     55  	   </div>
+   ..
+   22   1141   * ------------------------------------------------------------------- */
+   23   1142  
+   24:  1143: .header-logo {
+   25   1144    position: absolute;
+   26   1145    left: 40px;
+   ..
+   28   1153  }
+   29   1154  
+   30:  1155: .header-logo a {
+   31   1156    display: block;
+   32   1157    margin: 0;
+   ..
+   34   1329  
+   35   1330  @media only screen and (max-width: 768px) {
+   36:  1331:   .header-logo a {
+   37   1332      width: 88px;
+   38   1333      height: 20px;
+
+/var/www/html/Dazzle10/index.html:
+   43     <header id="header" class="row">   
+   44  
+   45:    		<div class="header-logo">
+   46  	        <a href="index.html">BogoAmbiental</a>
+   47  	    </div>
+
+/var/www/html/Dazzle10/styles.html:
+   51     <header id="header" class="row">   
+   52  
+   53: 		<div class="header-logo">
+   54  	   	<a href="index.html">BogoAmbiental</a>
+   55  	   </div>
+
+/var/www/html/Dazzle10/css/main.css:
+ 1141   * ------------------------------------------------------------------- */
+ 1142  
+ 1143: .header-logo {
+ 1144    position: absolute;
+ 1145    left: 40px;
+ ....
+ 1153  }
+ 1154  
+ 1155: .header-logo a {
+ 1156    display: block;
+ 1157    margin: 0;
+ ....
+ 1329  
+ 1330  @media only screen and (max-width: 768px) {
+ 1331:   .header-logo  {
+ 1332      width: 88px;
+ 1333      height: 20px;
+
+10 matches across 4 files
+
+
+Searching 64 files for "header-logos"
+
+/var/www/html/Dazzle10/Find Results:
+    8     43     <header id="header" class="row">   
+    9     44  
+   10:    45:    		<div class="header-logo">
+   11     46  	        <a href="index.html">BogoAmbiental</a>
+   12     47  	    </div>
+   ..
+   15     51     <header id="header" class="row">   
+   16     52  
+   17:    53: 		<div class="header-logo">
+   18     54  	   	<a href="index.html">BogoAmbiental</a>
+   19     55  	   </div>
+   ..
+   22   1141   * ------------------------------------------------------------------- */
+   23   1142  
+   24:  1143: .header-logo {
+   25   1144    position: absolute;
+   26   1145    left: 40px;
+   ..
+   28   1153  }
+   29   1154  
+   30:  1155: .header-logo a {
+   31   1156    display: block;
+   32   1157    margin: 0;
+   ..
+   34   1329  
+   35   1330  @media only screen and (max-width: 768px) {
+   36:  1331:   .header-logo a {
+   37   1332      width: 88px;
+   38   1333      height: 20px;
+
+/var/www/html/Dazzle10/index.html:
+   43     <header id="header" class="row">   
+   44  
+   45:    		<div class="header-logo">
+   46  	        <a href="index.html">BogoAmbiental</a>
+   47  	    </div>
+
+/var/www/html/Dazzle10/styles.html:
+   51     <header id="header" class="row">   
+   52  
+   53: 		<div class="header-logo">
+   54  	   	<a href="index.html">BogoAmbiental</a>
+   55  	   </div>
+
+/var/www/html/Dazzle10/css/main.css:
+ 1141   * ------------------------------------------------------------------- */
+ 1142  
+ 1143: .header-logo {
+ 1144    position: absolute;
+ 1145    left: 40px;
+ ....
+ 1153  }
+ 1154  
+ 1155: .header-logo a {
+ 1156    display: block;
+ 1157    margin: 0;
+ ....
+ 1329  
+ 1330  @media only screen and (max-width: 768px) {
+ 1331:   .header-logo a {
+ 1332      width: 88px;
+ 1333      height: 20px;
+
+10 matches across 4 files
